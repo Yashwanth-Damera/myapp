@@ -1,5 +1,6 @@
 {
   "name": "myapp",
+  "author":"Venkkata Yashwanth Damera",
   "version": "0.0.0",
   "private": true,
   "scripts": {
